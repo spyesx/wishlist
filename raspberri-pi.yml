@@ -3,7 +3,7 @@
 raspberrypi:
 
   - num: 1
-    name: Moniteur, 3840 * 2160 IPS Grand Angle Ultra-Mince De 15,6 Pouces 4K UHD Mini &Eacute;cran D&eacute;di&eacute; Haut-Parleur Hi-Fi Int&eacute;gr&eacute; Pour Raspberry Pi Series/PS3/PS4/Xbox360/MAC, Moniteur De S&eacute;curit&eacute;(Prise europ&eacute;enne)
+    name: Moniteur, 3840 * 2160 IPS Grand Angle Ultra-Mince De 15,6 Pouces 4K UHD Mini écran Dédié Haut-Parleur Hi-Fi Intégré Pour Raspberry Pi Series/PS3/PS4/Xbox360/MAC, Moniteur De Sécurité(Prise européenne)
     link: http://www.amazon.fr/dp/B07VQLQSK4/?coliid=I3CJN5X84YCK94&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
     picture: https://m.media-amazon.com/images/I/414gAcBqnPL._SS135_.jpg
     price:
@@ -17,21 +17,21 @@ raspberrypi:
     specs: []
 
   - num: 3
-    name: Techole Convertisseur HDMI vers VGA 1080p, Adaptateur HDMI M&acirc;le vers VGA Femelle avec Audio et Micro C&acirc;ble USB pour PC,Raspberry Pi,Ordinateur Portable,HDTV Projecteurs,TV Box, PS4/3 XBox etc
+    name: Techole Convertisseur HDMI vers VGA 1080p, Adaptateur HDMI Mâle vers VGA Femelle avec Audio et Micro Câble USB pour PC,Raspberry Pi,Ordinateur Portable,HDTV Projecteurs,TV Box, PS4/3 XBox etc
     link: http://www.amazon.fr/dp/B075L812M3/?coliid=I1Z2W54LQTYHM0&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
     picture: https://m.media-amazon.com/images/I/41SW9Efc15L._SS135_.jpg
     price:
     specs: []
 
   - num: 4
-    name: MaGeek&reg; [Paquet de 5pcs] 0.3m Court Micro USB C&acirc;bles Haute Vitesse USB 2.0 Sync et Charge pour Samsung, HTC, Sony, Motorola, LG, Google, Nokia (Noir)
+    name: MaGeek&reg; [Paquet de 5pcs] 0.3m Court Micro USB Câbles Haute Vitesse USB 2.0 Sync et Charge pour Samsung, HTC, Sony, Motorola, LG, Google, Nokia (Noir)
     link: http://www.amazon.fr/dp/B00WMAQKS2/?coliid=I230RZA3EC758O&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
     picture: https://m.media-amazon.com/images/I/511nlaPOiDL._SS135_.jpg
     price:
     specs: []
 
   - num: 5
-    name: NETGEAR GS108 Switch Ethernet  8 Ports M&eacute;tal Gigabit (10/100/1000), pour une Connectivit&eacute; Simple et Abordable, Protection ProSAFE, Garantie &agrave; Vie Id&eacute;al pour les PME et TPE
+    name: NETGEAR GS108 Switch Ethernet  8 Ports Métal Gigabit (10/100/1000), pour une Connectivité Simple et Abordable, Protection ProSAFE, Garantie &agrave; Vie Idéal pour les PME et TPE
     link: http://www.amazon.fr/dp/B000092RRM/?coliid=IPMJ1B8MUH2G4&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
     picture: https://m.media-amazon.com/images/I/41YvvimDh0L._SS135_.jpg
     price:
