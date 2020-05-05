@@ -1,0 +1,26 @@
+---
+
+office:
+
+  - name: PONY DANCE Rideau Occultant avec Oeillets
+    link: https://www.amazon.fr/dp/B07RMXK6J8/
+    picture:
+    price: 50 EUR
+    specs:
+      - 274x254cm
+
+  - name: Fatboy original
+    link: https://www.amazon.fr/dp/B000BVAQ3Y/
+    picture:
+    price: 199 EUR
+    specs:
+      - brown
+      - 180x140cm
+
+  - name: The Circular Calendar for the year
+    link: https://circular-calendar.com/
+    picture:
+    price: 8 EUR
+    specs:
+      - PDF version
+      - 60º/50º/40º/30º - north

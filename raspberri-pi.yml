@@ -1,0 +1,53 @@
+---
+
+raspberrypi:
+
+  - num: 1
+    name: Moniteur, 3840 * 2160 IPS Grand Angle Ultra-Mince De 15,6 Pouces 4K UHD Mini &Eacute;cran D&eacute;di&eacute; Haut-Parleur Hi-Fi Int&eacute;gr&eacute; Pour Raspberry Pi Series/PS3/PS4/Xbox360/MAC, Moniteur De S&eacute;curit&eacute;(Prise europ&eacute;enne)
+    link: http://www.amazon.fr/dp/B07VQLQSK4/?coliid=I3CJN5X84YCK94&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/414gAcBqnPL._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 2
+    name: Argon One Raspberry Pi 4 Case
+    link: http://www.amazon.fr/dp/B082B4ZY7K/?coliid=I2JQ61FUIPBHY3&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/310sjo5khNL._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 3
+    name: Techole Convertisseur HDMI vers VGA 1080p, Adaptateur HDMI M&acirc;le vers VGA Femelle avec Audio et Micro C&acirc;ble USB pour PC,Raspberry Pi,Ordinateur Portable,HDTV Projecteurs,TV Box, PS4/3 XBox etc
+    link: http://www.amazon.fr/dp/B075L812M3/?coliid=I1Z2W54LQTYHM0&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/41SW9Efc15L._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 4
+    name: MaGeek&reg; [Paquet de 5pcs] 0.3m Court Micro USB C&acirc;bles Haute Vitesse USB 2.0 Sync et Charge pour Samsung, HTC, Sony, Motorola, LG, Google, Nokia (Noir)
+    link: http://www.amazon.fr/dp/B00WMAQKS2/?coliid=I230RZA3EC758O&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/511nlaPOiDL._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 5
+    name: NETGEAR GS108 Switch Ethernet  8 Ports M&eacute;tal Gigabit (10/100/1000), pour une Connectivit&eacute; Simple et Abordable, Protection ProSAFE, Garantie &agrave; Vie Id&eacute;al pour les PME et TPE
+    link: http://www.amazon.fr/dp/B000092RRM/?coliid=IPMJ1B8MUH2G4&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/41YvvimDh0L._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 6
+    name: Anker PowerPort 10 Chargeur 60W 10 Ports USB - Chargeur Secteur Vers USB pour portables et tablettes Apple et Android - Chargeur iPhone Xs/Max/XR/X/8/7/6/Plus, iPad, Galaxy et autres
+    link: http://www.amazon.fr/dp/B00YTJ45HM/?coliid=IJDGV68H3J3II&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/41OhAx9rvEL._SS135_.jpg
+    price:
+    specs: []
+
+  - num: 7
+    name: 'Cloudlet CASE: Cluster Case pour Raspberry Pi et autres ordinateurs &agrave; carte unique (compatible RPi 4B) Noir'
+    link: http://www.amazon.fr/dp/B07D5MJ7PQ/?coliid=I100PI1EDL2D1M&colid=HRUXKV151NNF&psc=1&ref_=lv_vv_lig_dp_it
+    picture: https://m.media-amazon.com/images/I/51CU3xSDUkL._SS135_.jpg
+    price:
+    specs: []
+

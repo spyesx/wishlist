@@ -1,0 +1,128 @@
+---
+
+clothingandaccessories:
+
+  - name: Metro date power reserve 1101
+    link: https://nomos-glashuette.com/en/metro/metro-date-power-reserve-1101
+    picture: https://cdn.nomos-glashuette.com/media/image/6b/f5/c0/2560xauto-q80-bg238238238/1101_metro_d_g-2d-front-masked.jpg
+    price:
+    specs:
+      - Reference 1101
+
+  - name: Kick Flip - Casquette
+    link: https://www.ducati.com/fr/fr/apparel/APP001159
+    picture: https://media.ducati.com/EPCResources/GRAPHICS/immagini_apparel/DE/DE60C673CE31C99B4E35187F1F17AF19.png
+    price:
+    specs: []
+
+  - name: Stuff from Outlier
+    link: https://shop.outlier.nyc/
+    picture: 
+    price:
+    specs: []
+
+  - name: Stuff from Hackett
+    link:  https://www.hackett.com/
+    picture: 
+    price:
+    specs: []
+
+  - name: Fisherman pants
+    link: 
+    picture: 
+    price:
+    specs: []
+
+  - name: Bellroy travel wallet
+    link: https://bellroy.com/explore/icons/travel-wallet
+    picture: 
+    price:
+    specs: []
+
+  - name: LodinG - Richelieus - Giorgio armagnac patiné
+    link: 
+    picture: 
+    price:
+    specs: []
+
+  - name: HYBRIDGE KNIT ANORAK
+    link: https://www.canadagoose.com/cn/en/hybridge-knit-anorak-7009M.html
+    picture: 
+    price:
+    specs: []
+
+  - name: MENS'S HYBRIDGE CW DOWN JACKET BLACK LABEL
+    link: https://www.canadagoose.com/cn/en/mens%27s-hybridge-cw-down-jacket-black-label-2731MB.html
+    picture: 
+    price:
+    specs: []
+
+  - name: ASHCROFT HOODY
+    link: https://www.canadagoose.com/cn/en/ashcroft-hoody-6869M.html?cgid=shop-mens
+    picture: 
+    price:
+    specs:
+      - red
+
+  - name: PATERSON SWEATER
+    link: https://www.canadagoose.com/cn/en/paterson-sweater-6810M.html?cgid=shop-mens
+    picture: 
+    price:
+    specs:
+      - white
+
+  - name: FUSED POCKET T-SHIRT JACK & JONES
+    link: https://www.bestsellerclothing.ca/collections/jack-jones-next-stop-vacation/products/fused-pocket-t-shirt-sunflower-en
+    picture: 
+    price:
+    specs:
+      - yellow
+
+  - name: Patagonia Men's R1® TechFace Pullover
+    link: https://www.patagonia.com/product/mens-r1-techface-pullover/83605.html?dwvar_83605_color=MAN&cgid=mens-jackets-vests
+    picture: 
+    price:
+    specs:
+      - Color classic navy
+
+
+  - name: Patagonia Hemp Crew Sweatshirt
+    link: https://www.patagonia.com/product/mens-hemp-crew-work-sweatshirt/53365.html?dwvar_53365_color=SNBL&cgid=mens-sweatshirts-hoodies
+    picture: 
+    price:
+    specs: []
+
+
+  - name: Patagonia Men's Fitz Roy Horizons Uprisal Hoody
+    link: https://www.patagonia.com/product/mens-fitz-roy-horizons-uprisal-hoody/39583.html?dwvar_39583_color=BLK&cgid=mens-sweatshirts-hoodies
+    picture: 
+    price:
+    specs:
+      - color Superior blue
+
+
+  - name: Patagonia Men's Capilene® Cool Daily Hoody
+    link: https://www.patagonia.com/product/mens-capilene-cool-daily-hoody/45310.html?dwvar_45310_color=SBLX&cgid=mens-shirts
+    picture: 
+    price:
+    specs:
+      - Color big sky blue
+
+  - name: 
+    link: https://www.catfootwear.fr/chaussures-homme/452-colorado-chocolate.html
+    picture: 
+    price:
+    specs: []
+
+  - name: 
+    link: https://www.timberland.fr/shop/fr/tbl-fr/bottine-newmarket-pour-homme-en-marron-clair-a2qhj932?variationId=COLOR_LIGHTBROWN
+    picture: 
+    price:
+    specs: []
+
+  - name: 
+    link: https://www.timberland.fr/shop/fr/tbl-fr/bottine-craft-8-inch-american-pour-homme-en-marron-fonce-a1tdq931?variationId=COLOR_DARKBROWN
+    picture: 
+    price:
+    specs: []
+
