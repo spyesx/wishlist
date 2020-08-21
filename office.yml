@@ -8,6 +8,7 @@ office:
     price: 50 EUR
     specs:
       - 274x254cm
+      - Black
 
   - name: Fatboy original
     link: https://www.amazon.fr/dp/B000BVAQ3Y/
